@@ -1,4 +1,4 @@
-/* to find out the sum of series 1^2 + 2^2 + ... + n^2 */
+/*  sum of series 1^2 + 2^2 + ... + n^2 */
 
 #include<stdio.h>
 
