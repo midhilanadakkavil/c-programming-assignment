@@ -1,0 +1,11 @@
+1  /*Program to find the simple interest*/
+2  #include<stdio.h>
+3  void main()
+4  { 
+5	float p,n,r,si;
+6	printf("Enter the principle,number of years and rate\n");
+7	scanf("%f%f%f",&p,&n,&r);
+8	si=p*n*r/100;
+9	printf("The Simple Interest is = %f",si);
+10  }
+
