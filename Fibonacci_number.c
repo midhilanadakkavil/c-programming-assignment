@@ -1,4 +1,4 @@
-/*  first N fibonacci numners*/
+/*  generate first N fibonacci numners*/
 
 #include<stdio.h>
 
