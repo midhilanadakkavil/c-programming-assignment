@@ -1,6 +1,6 @@
-/* to display Floyd's triangle */
 
-/*  FLOYD'S TRIANGLE
+
+/*  Floyd triangle
          1
          2 3
          4 5 6
