@@ -1,4 +1,4 @@
-/* to find mean variance and std variance        /*
+/* to find mean variance and std variance   */
 #include <stdio.h>
 #include <math.h>
 #define MAXSIZE 10
