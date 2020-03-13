@@ -1,4 +1,4 @@
-/* to find GCD and LCM of two integers*/
+/*  GCD and LCM of two integers*/
 
 #include<stdio.h>
 
