@@ -1,4 +1,4 @@
- /*Program to find the simple interest*/
+ /* find the simple interest*/
   #include<stdio.h>
   void main()
   { 
