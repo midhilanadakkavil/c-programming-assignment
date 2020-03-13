@@ -1,5 +1,3 @@
-
-
 /*  Floyd triangle
          1
          2 3
