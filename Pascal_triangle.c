@@ -1,4 +1,4 @@
-/*PASCAL'S TRIANGLE
+/*Pascal triangle
  *        1
  *       1 1
  *      1 2 1
