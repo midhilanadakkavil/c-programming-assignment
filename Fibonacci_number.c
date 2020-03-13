@@ -1,4 +1,4 @@
-/* to find first N fibonacci numners*/
+/*  first N fibonacci numners*/
 
 #include<stdio.h>
 
