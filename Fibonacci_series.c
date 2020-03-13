@@ -1,4 +1,4 @@
-/*  the Fibonacci Series*/
+/*  generate Fibonacci Series*/
 
 #include<stdio.h>
 
