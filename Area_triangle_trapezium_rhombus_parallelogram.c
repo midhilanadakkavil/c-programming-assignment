@@ -1,4 +1,4 @@
-/* to calculate the area of a triangle, trapezium, rhombus, parallelogram */
+/*  the area of a triangle, trapezium, rhombus, parallelogram */
 
 #include<stdio.h>
 
