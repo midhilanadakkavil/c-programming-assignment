@@ -1,4 +1,4 @@
-/* Floyd triangle */
+/* display Floyd triangle */
 #include<stdio.h>
 void main()
 {
