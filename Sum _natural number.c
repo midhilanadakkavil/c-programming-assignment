@@ -1,4 +1,4 @@
-/* to find the sum of first natural no:s*/
+/*  sum of first natural no:s*/
 
 #include <stdio.h>
 void main()
